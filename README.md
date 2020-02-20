@@ -18,6 +18,6 @@ The objective of this project is to use SQL to perform data modeling, engineerin
 1. SQL
 
 ## **Screenshots:**
-![erd.jpg](SQL_Homework_ERD_IF.JPG)
-![graph1](Average Salary by Title.png)
-![graph2](Most Common Employee Salary Ranges.png)
+![erd.jpg](images/erd.JPG)
+![graph1](images/graph1_average_salary.png)
+![graph2](images_graph2_common_salary_ranges.png)
