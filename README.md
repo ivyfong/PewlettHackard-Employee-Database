@@ -22,10 +22,13 @@ The objective of this project is to use SQL to perform data modeling, engineerin
 
 ## **Screenshots:**
 ERD
+
 ![erd.jpg](images/erd.JPG)
 
 Average Salary by Title
+
 ![graph1](images/graph1_average_salary.png)
 
 Most Common Employee Salary Ranges
+
 ![graph2](images/graph2_common_salary_ranges.png)
