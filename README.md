@@ -21,7 +21,6 @@ The objective of this project is to use SQL to perform data modeling, engineerin
 2. Python - SQLAlchemy, Matplotlib, Pandas
 
 ## **Screenshots:**
-
 ERD
 ![erd.jpg](images/erd.JPG)
 
