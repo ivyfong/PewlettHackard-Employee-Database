@@ -6,15 +6,15 @@ The objective of this project is to use SQL to perform data modeling, engineerin
 * **Data Modeling:** Inspected the CSV files and created an ERD of the tables.
 * **Data Engineering:** Created a table schema for each CSV file and imported each file into the corresponding SQL table.
 * **Data Analysis:** 
-1. Created the following tables: 
-  - Employee summary table
-  - List of employees hired in 1986
-  - Manager summary table
-  - List of all employees in the Sales and Development departments
-  - Frequency count of employee last names
- 2. Created the following bar graphs:
-  - Average salary by title
-  - Most common employee salary ranges
+    1. Created the following tables: 
+      - Employee summary table
+      - List of employees hired in 1986
+      - Manager summary table
+      - List of all employees in the Sales and Development departments
+      - Frequency count of employee last names
+     2. Created the following bar graphs:
+      - Average salary by title
+      - Most common employee salary ranges
 
 ## **Tools:**
 1. SQL
