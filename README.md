@@ -21,5 +21,3 @@ The objective of this project is to use SQL to perform data modeling, engineerin
 ![erd.jpg](images/erd.JPG)
 ![graph1](images/graph1_average_salary.png)
 ![graph2](images/graph2_common_salary_ranges.png)
-<img align="center" src="images/graph1_average_salary.png" alt="graph1">
-<img align="center" src="images/graph2_common_salary_ranges.png" alt="graph2">
