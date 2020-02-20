@@ -1,4 +1,4 @@
-# Unit 9 – SQL Web Homework, PewlettHackard Employee Database
+# PewlettHackard Employee Database
 
 ## **Objective:**
 The objective of this project is to use SQL to perform data modeling, engineering and analysis of an employee database originally stored in 6 CSV files. The following steps were taken:
