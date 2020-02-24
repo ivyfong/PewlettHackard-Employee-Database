@@ -25,7 +25,7 @@ ERD
 
 ![erd.jpg](images/erd.JPG)
 
-Most Common Employee Salary Ranges
+Employee Summary
 
 ![table1.jpg](images/table1_employee_summary.JPG)
 
