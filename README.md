@@ -18,17 +18,17 @@ The objective of this project is to use SQL to perform data modeling, engineerin
 
 ## **Tools:**
 1. SQL
-2. Python - SQLAlchemy, Matplotlib, Pandas
+2. Python - SQLAlchemy, Pandas, and Matplotlib
 
 ## **Screenshots:**
 ERD
 
 ![erd.jpg](images/erd.JPG)
 
+Most Common Employee Salary Ranges
+
+![table1.jpg](images/table1_employee_summary.JPG)
+
 Average Salary by Title
 
 ![graph1](images/graph1_average_salary.png)
-
-Most Common Employee Salary Ranges
-
-![graph2](images/graph2_common_salary_ranges.png)
